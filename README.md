@@ -1,2 +1,2 @@
 # Submodule_test
-stm32
+Servo angle control library
